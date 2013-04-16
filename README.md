@@ -1,6 +1,6 @@
 CPAL1
 =====
-Matlab and cmex code to perform the CPAL1 decomposition
+Matlab and cmex code to perform the CANDECOMP/PARAFAC - Alternating Least 1-norm (CPAL1) decomposition.
 
 Legal Stuff
 ===========
